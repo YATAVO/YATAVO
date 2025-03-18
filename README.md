@@ -11,7 +11,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YATAVO&layout=compact&theme=dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YATAVO&repo=Glowing-cards-in-html-css&theme=dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/YATAVO/Glowing-cards-in-html-css))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YATAVO&repo=Glowing-cards-in-html-css&theme=dark)](https://github.com/YATAVO/Glowing-cards-in-html-css)
 
 
 
