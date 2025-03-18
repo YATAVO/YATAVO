@@ -5,6 +5,7 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+<h1>Hi! I'm YATAVO!</h1>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=YATAVO&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
@@ -13,18 +14,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YATAVO&repo=Glowing-cards-in-html-css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h1>Hello! I'm YATAVO!</h1>
-<h2>What do I even do?</h2>
 
 
-<li>
-    <ul>
-       HTML
-    </ul>
-    <ul>
-        CSS
-    </ul>
-</li>
 
 
 
