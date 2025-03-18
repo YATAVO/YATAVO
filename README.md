@@ -5,13 +5,8 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-markdown
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-<div class="header">
-    <h1>My GitHub Profile</h1>
-    <p> Ya krutoy specialist !</p>
-</div>
+
 
 </body>
 </html>
