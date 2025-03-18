@@ -20,7 +20,10 @@
 
 <li>
     <ul>
-       frontend 
+       HTML
+    </ul>
+    <ul>
+        CSS
     </ul>
 </li>
 
