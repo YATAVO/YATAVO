@@ -14,11 +14,13 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YATAVO&repo=Glowing-cards-in-html-css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<h1>Hello! I'm YATAVO!</h1>
+<h2>What do I even do?</h2>
+
+
 <li>
     <ul>
-        хуй
-        хуй
-        хуй
+       frontend 
     </ul>
 </li>
 
