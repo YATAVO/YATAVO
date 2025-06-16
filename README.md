@@ -16,10 +16,6 @@
 
 
 
-<h1>My frontend portfolio</h1>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YATAVO&repo=For_Portfolio_1&theme=dark)](https://github.com/YATAVO/For_Portfolio_1)
-
 
 
 
